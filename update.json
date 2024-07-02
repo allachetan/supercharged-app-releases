@@ -1,14 +1,14 @@
 {
-  "version": "0.0.1",
-  "notes": "Alpha version update test",
+  "version": "0.0.2",
+  "notes": "System tray update",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUclRhV2tBOTZIRjVlbUV0TVp5Q2NKMkdrWUVnTE5qdFVnZFRCVk9NcXlBYmtUdjNGU09JeEU4dWtSOExna3ZESjVOU0Y3OFJTTnhRM085dWtPdmFyOUZpMGhlaEhMUmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5ODkyMTk0CWZpbGU6U3VwZXJjaGFyZ2VkLmFwcC50YXIuZ3oKdkszUWkzelkvaWh6TkhVT254VkxPeEY4dDh6YklaZVhuNzdFYXZRenpzK2ZJRU5lWGFJa3NDWVFnTSsrUlVtU1hTYnNIR2xYTUFGMXlOM3BobzdXRFE9PQo=",
-      "url": "https://github.com/allachetan/supercharged-app-releases/releases/download/0.0.1/Supercharged_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUclRhV2tBOTZIRjAyNXlYbDF4M2dhMGdzenE4RVB5dGZYTUxpaVFKN0Z2Nm54Qi9jVnl1eTB2NXlBcENqMzNMYWVMTFlCSlBzajRuOFJHRnBqbFB5dmMvRlJ0RjJ5YVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5OTM2MTMxCWZpbGU6U3VwZXJjaGFyZ2VkLmFwcC50YXIuZ3oKMFVMMmJjRGZCSzRYRGlRMlJsc1VkUGZYZjZmQWtzMmhUMUVOc2VJUFJ0NlRDMlJ4Z2pVbDE3cSszSDFPNW1Cd0lYVmkxNytNZjI1M2xhakNSTmo0RHc9PQo=",
+      "url": "https://github.com/allachetan/supercharged-app-releases/releases/download/0.0.2/x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUclRhV2tBOTZIRnhldi9vcWwweWpMVkZaZDRGMGxzMDFKMWx4YzlXTGtiN3Z6cjNDaXM4QUJsektqS1RpcndTY3VQT2Y0eXdTZndVdFptQldBVzdieEFkeFVPYXYvVGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5ODkyMjEyCWZpbGU6U3VwZXJjaGFyZ2VkLmFwcC50YXIuZ3oKOEVhL2xDMmV2SWJkcnJ3MVYvbTBibXdsTHpnYmlLaWxSQlpMaFlVYzlFOS9iMDNjdVhWYnd1TWpQMjBJcXVYU1h6SEI1eFcxKysyanY0V3JOUkMxRFE9PQo=",
-      "url": "https://github.com/allachetan/supercharged-app-releases/releases/download/0.0.1/Supercharged_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUclRhV2tBOTZIRnlBOTkyeHNwb3MxQVJRUzQ3bUlhS2tXSXQ1a2g3bzdQcEtLTG55ZDY0ek1ZVmVsQmVRWkMvcTN0SDl6dk1OWjQyenJHNWxoSTIxR1FaMU9jMmJ5ckFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5OTM2MTA0CWZpbGU6U3VwZXJjaGFyZ2VkLmFwcC50YXIuZ3oKZ1NDOWhvRnBTd1RGVm05Q2dBQVNnRFd0Y3dmNEpYV2VUTzBnM1gvMVAxeittVkpmeXZWRTlnaThFQyt5akZzbzUwbEJKRVZGNDJtcHY3aTQ3RzlpRGc9PQo=",
+      "url": "https://github.com/allachetan/supercharged-app-releases/releases/download/0.0.2/aarch64.app.tar.gz"
     }
   }
 }
