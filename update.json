@@ -1,0 +1,15 @@
+{
+  "version": "v0.0.0",
+  "notes": "Alpha version release",
+  "pub_date": "2023-07-01T12:00:00Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "base64-encoded-signature",
+      "url": "https://github.com/allachetan/supercharged-app-releases/releases/download/release/Supercharged_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "base64-encoded-signature",
+      "url": "https://github.com/allachetan/supercharged-app-releases/releases/download/release/Supercharged_aarch64.app.tar.gz"
+    }
+  }
+}
